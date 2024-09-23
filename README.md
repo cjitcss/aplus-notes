@@ -6,6 +6,7 @@
 |LAN   |Local Area Network   |
 |WLAN   |Wireless Local Area Network   |
 |MAN   |Metropolitan Area Network   |
+|WAN   |Wide Area Network   |
 
 #### **Wi-Fi standards**
 
