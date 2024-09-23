@@ -1,4 +1,4 @@
-#### **Computer networks**
+**Computer networks**
 
 | |   |
 | ------------ | ------------ |
@@ -7,7 +7,7 @@
 |WLAN   |Wireless Local Area Network   |
 |MAN   |Metropolitan Area Network   |
 
-#### **Wi-Fi standards**
+**Wi-Fi standards**
 
 |Standard   |GHz   |MIMO   | Maximum speed  | Notes
 |------------ | ------------ | ------------ | ------------ |
