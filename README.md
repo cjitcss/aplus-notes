@@ -12,7 +12,7 @@
 
 |Standard   |Frequency   |Maximum speed      | Features |
 |------------ | ------------ | ------------ | ------------ |
-|**802.11a **   |5 GHz    |54 Mbit/s   |
+|**802.11a**   |5 GHz    |54 Mbit/s   |
 |**802.11b**   |2.4 GHz      |11 Mbit/s   |
 |**802.11g**   |2.4 GHz   |54 Mbit/s   |
 |**802.11n** (Wi-Fi 4)   |2.4 GHz / 5 GHz   |600 Mbit/s   | MIMO
