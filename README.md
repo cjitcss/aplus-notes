@@ -4,7 +4,6 @@
 | ------------ | ------------ |
 |**PAN**   |Personal Area Network   |
 |**LAN**   |Local Area Network   |
-|**WLAN**   |Wireless Local Area Network   |
 |**MAN**   |Metropolitan Area Network   |
 |**WAN**   |Wide Area Network   |
 
