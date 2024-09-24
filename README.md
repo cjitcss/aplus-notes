@@ -20,9 +20,12 @@
 
 #### **Wi-Fi antennas**
 
-| |   |
+| Name|Direction   |
 | ------------ | ------------ |
-|**Yagi**   |   |
+|Yagi   | Point-to-point  |
+|Dish   |Point-to-point    |
+|Panel   | Point-to-point   |
+|USB Wi-Fi   |Omni-directional   |
 
 #### **PoE**
 
