@@ -1,4 +1,7 @@
-#### **Ports and protocols**
+# CompTIA A+ exam preparation notes
+Feel free to help out :)
+
+#### ** Ports and protocols**
 | Port # | Abbreviation | Protocol                           | Connection Type     | Notes |
 |--------|--------------|------------------------------------|---------------------|-------|
 | 20     | FTP Data     | File Transfer Protocol (Data)      | Connection-oriented   |       |
