@@ -1,3 +1,28 @@
+#### ** Ports and protocols**
+| Port # | Abbreviation | Protocol                           | Connection Type     | Notes |
+|--------|--------------|------------------------------------|---------------------|-------|
+| 20     | FTP Data     | File Transfer Protocol (Data)      | Connection-oriented   |       |
+| 21     | FTP          | File Transfer Protocol             | Connection-oriented   |       |
+| 22     | SSH          | Secure Shell                       | Connection-oriented   |       |
+| 23     | Telnet       | Telnet                             | Connection-oriented   |       |
+| 25     | SMTP         | Simple Mail Transfer Protocol      | Connection-oriented   |       |
+| 53     | DNS          | Domain Name System                 | Connectionless       |       |
+| 67     | DHCP Server  | Dynamic Host Configuration Protocol (Server) | Connectionless       |       |
+| 68     | DHCP Client  | Dynamic Host Configuration Protocol (Client) | Connectionless       |       |
+| 80     | HTTP         | Hypertext Transfer Protocol        | Connection-oriented   |       |
+| 110    | POP3         | Post Office Protocol v3            | Connection-oriented   |       |
+| 137    | NetBIOS Name | NetBIOS Name Service               | Connectionless       |       |
+| 139    | NetBIOS Session | NetBIOS Session Service          | Connection-oriented   |       |
+| 143    | IMAP         | Internet Message Access Protocol   | Connection-oriented   |       |
+| 161    | SNMP         | Simple Network Management Protocol | Connectionless       |       |
+| 162    | SNMP Trap    | SNMP Trap                         | Connectionless       |       |
+| 389    | LDAP         | Lightweight Directory Access Protocol | Connection-oriented   |     |
+| 443    | HTTPS        | Hypertext Transfer Protocol Secure  | Connection-oriented   |       |
+| 445    | SMB          | Server Message Block               | Connection-oriented   |       |
+| 3389   | RDP          | Remote Desktop Protocol            | Connection-oriented   |       |
+
+
+
 #### **Computer networks**
 
 | |   |
