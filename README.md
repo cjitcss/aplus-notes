@@ -1,4 +1,4 @@
-#### ** Ports and protocols**
+#### **Ports and protocols**
 | Port # | Abbreviation | Protocol                           | Connection Type     | Notes |
 |--------|--------------|------------------------------------|---------------------|-------|
 | 20     | FTP Data     | File Transfer Protocol (Data)      | Connection-oriented   |       |
