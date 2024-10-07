@@ -62,3 +62,15 @@ Feel free to help out :)
 |**802.3af**   | PoE   |
 |**802.3at**   |PoE+   |
 |**802.3bt**   |PoE++   |
+
+#### DNS
+
+**A** record for IPv4
+**AAAA** record for  IPv6
+**MX** - Mail exchanger
+**TXT** - text record
+
+Spam management:
+- DomainKeys Identified Mail (**DKIM**)
+- Sender Policy Framework (**SPF**)
+- Domain-based Message Authentication, Reporting, and Conformance (**DMARC**)
