@@ -65,10 +65,19 @@ Feel free to help out :)
 
 #### DNS
 
-**A** record for IPv4
-**AAAA** record for  IPv6
-**MX** - Mail exchanger
-**TXT** - text record
+#### DNS
+
+| Record|Description   |
+| ------------ | ------------ |
+|**A**   | IPv4  |
+|**AAAA**   |IPv6   |
+|**MX**   | Mail exchanger   |
+|**TXT**  | Text record   |
+
+Spam management:
+- DomainKeys Identified Mail (**DKIM**)
+- Sender Policy Framework (**SPF**)
+- Domain-based Message Authentication, Reporting, and Conformance (**DMARC**)
 
 Spam management:
 - DomainKeys Identified Mail (**DKIM**)
