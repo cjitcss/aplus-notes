@@ -1,6 +1,17 @@
 # CompTIA A+ exam preparation notes
 Feel free to help out :)
+<br>
+#### ** Troubleshooting Methodology **
 
+1. Identify the problem.
+2. Establish a theory of probable cause (question the obvious).
+3. Test the theory to determine cause.
+4. Establish a plan of action to resolve the problem and implement the solution.
+5. Verify full system functionality, and implement preventive measures.
+6. Document findings, actions, and outcomes.
+
+**To remember the order**: *I Eat Tacos Every Valentine's Day*
+<br>
 #### ** Ports and protocols**
 | Port # | Abbreviation | Protocol                           | Connection Type     | Notes |
 |--------|--------------|------------------------------------|---------------------|-------|
@@ -26,6 +37,7 @@ Feel free to help out :)
 
 
 
+<br>
 #### **Computer networks**
 
 | |   |
@@ -35,6 +47,7 @@ Feel free to help out :)
 |**MAN**   |Metropolitan Area Network   |
 |**WAN**   |Wide Area Network   |
 
+<br>
 #### **Wi-Fi standards**
 
 |Standard   |Frequency   |Maximum speed      | Features |
@@ -46,6 +59,7 @@ Feel free to help out :)
 |**802.11ac** (Wi-Fi 5)  |5GHz   |6.9 Gbit/s   | MU-MIMO
 |**802.11ax** (Wi-Fi 6)   |2.4 GHz / 5 GHz   |9.6 Gbit/s   |MU-MIMO, OFDMA
 
+<br>
 #### **Wi-Fi antennas**
 
 | Name|Direction   |
@@ -55,6 +69,7 @@ Feel free to help out :)
 |Panel   | Point-to-point   |
 |USB Wi-Fi   |Omni-directional   |
 
+<br>
 #### **PoE**
 
 | |   |
@@ -63,8 +78,7 @@ Feel free to help out :)
 |**802.3at**   |PoE+   |
 |**802.3bt**   |PoE++   |
 
-#### DNS
-
+<br>
 #### DNS
 
 | Record|Description   |
@@ -73,11 +87,6 @@ Feel free to help out :)
 |**AAAA**   |IPv6   |
 |**MX**   | Mail exchanger   |
 |**TXT**  | Text record   |
-
-Spam management:
-- DomainKeys Identified Mail (**DKIM**)
-- Sender Policy Framework (**SPF**)
-- Domain-based Message Authentication, Reporting, and Conformance (**DMARC**)
 
 Spam management:
 - DomainKeys Identified Mail (**DKIM**)
