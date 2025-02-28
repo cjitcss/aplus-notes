@@ -75,6 +75,15 @@ Feel free to help out :)
 |**802.3at**   |PoE+   |
 |**802.3bt**   |PoE++   |
 
+#### DHCP
+**DORA**
+1. Discover
+2. Offer
+3. Request
+4. Acknowledge
+
+**APIPA** - Automatic Private IP Addressing
+
 
 #### DNS
 
