@@ -1,7 +1,7 @@
 # CompTIA A+ exam preparation notes
 Feel free to help out :)
 <br>
-#### Troubleshooting Methodology
+### Troubleshooting Methodology
 
 1. Identify the problem.
 2. Establish a theory of probable cause (question the obvious).
@@ -12,7 +12,7 @@ Feel free to help out :)
 
 **To remember the order**: *I Eat Tacos Every Valentine's Day*
 
-#### Ports and protocols
+### Ports and protocols
 | Port # | Abbreviation | Protocol                           | Connection Type     
 |--------|--------------|------------------------------------|---------------------
 | 20     | FTP Data     | File Transfer Protocol (Data)      | Connection-oriented  
@@ -45,7 +45,7 @@ Feel free to help out :)
 |**WAN**   |Wide Area Network   |
 
 
-#### **Wi-Fi standards**
+### **Wi-Fi standards**
 
 |Standard   |Frequency   |Maximum speed      | Features |
 |------------ | ------------ | ------------ | ------------ |
@@ -57,7 +57,7 @@ Feel free to help out :)
 |**802.11ax** (Wi-Fi 6)   |2.4 GHz / 5 GHz   |9.6 Gbit/s   |MU-MIMO, OFDMA
 
 
-#### **Wi-Fi antennas**
+### **Wi-Fi antennas**
 
 | Name|Direction   |
 | ------------ | ------------ |
@@ -67,7 +67,7 @@ Feel free to help out :)
 |USB Wi-Fi   |Omni-directional   |
 
 
-#### **PoE**
+### **PoE**
 
 | |   |
 | ------------ | ------------ |
@@ -75,7 +75,7 @@ Feel free to help out :)
 |**802.3at**   |PoE+   |
 |**802.3bt**   |PoE++   |
 
-#### DHCP
+### DHCP
 **DORA**
 1. Discover
 2. Offer
@@ -85,7 +85,7 @@ Feel free to help out :)
 **APIPA** - Automatic Private IP Addressing
 
 
-#### DNS
+### DNS
 
 | Record|Description   |
 | ------------ | ------------ |
